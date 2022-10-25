@@ -1,9 +1,4 @@
 from flask import Flask
-from pytube import YouTube
-import os
-import time
-import requests
-import sys
 
 app = Flask(__name__)
 
